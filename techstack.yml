@@ -1,0 +1,18 @@
+repo_name: Marc-g-Z/hello-world
+report_id: ffbdf9aef024cae9c8586d0d38d9734e
+repo_type: Public
+timestamp: '2023-11-09T15:41:12+00:00'
+requested_by: Marc-g-Z
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
